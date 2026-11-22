@@ -151,6 +151,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://search.google.com/structured-data/testing-tool/u/0/ | Evaluate your structured data (rich snippets) markup for errors or warnings. | Free |
 | https://www.seobility.net/en | All-in-one SEO software including crawler, rank tracker, backlink checker, monitoring and reporting tools. | Free and paid plans |
 | https://seomator.com | SEO Audit Tool and website crawler for SEO performance improving with How-to-Fix tips. | Paid |
+| https://8083-agq6pwimmres4jrl6zkmx2vqtu.instabox.tech/grader | Free website grader for contractors and local businesses. Enter a URL to get an instant 0-100 grade across 12 checks (mobile, speed, SEO, contact, social) with prioritized fixes. No signup. | Free |
 
 
 ## Technology Used 🖥
@@ -196,6 +197,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://tools.pingdom.com/ | Enter a URL to test the load time of that page, analyze it and find bottlenecks. | Free and paid plans |
 | https://www.uptrends.com/tools/website-speed-test | Check the performance from 30+ free and 160+ paid checkpoints. | Free and paid plans |
 | https://www.webpagetest.org | Website performance test tools with many options. | Free |
+| https://8083-agq6pwimmres4jrl6zkmx2vqtu.instabox.tech/grader | Free instant website grader. Enter any URL for a 0-100 score across 12 mobile, speed, SEO, contact and social checks with prioritized fixes. No signup. | Free |
 | https://yellowlab.tools/ | Online test to help speeding up heavy web pages. | Free |
 
 ## Contributing ✍️
